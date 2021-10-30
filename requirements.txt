@@ -1,2 +1,5 @@
 aiogram<3.0
 environs~=8.0.0
+requests
+beautifulsoup4
+aioschedule
